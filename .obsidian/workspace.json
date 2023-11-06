@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "6ede7eaae03aedad",
+    "type": "split",
+    "children": [
+      {
+        "id": "2889f75ed8830b5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c70ca1ec99231810",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b09ca4cc6bcdec4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c8ff4c1aa1980b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c20e5cf3825e7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdadae5e7b14dc4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "baed5479894f1e96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "right": {
+    "id": "96847c946ed544cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d8bd94a20c1787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0fe99f7aef73dec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dd747da1efd59c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79fc834ea0923dd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9427a87e8d2a184",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1fd16e8368ff1df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c70ca1ec99231810",
+  "lastOpenFiles": [
+    "Nodejs/생활코딩nodejs",
+    "Nodejs/생활코딩node.js.md",
+    "Nodejs/생활코딩nodejs/nodejs.md",
+    "Node.js.md",
+    "Nodejs/생활코딩nodejs/app.md",
+    "Nodejs/생활코딩nodejs/nodejss",
+    "Nodejs/생활코딩nodejs/app",
+    "Nodejs/생활코딩nodejs/nodejss/파일 목록 알아내기.md",
+    "Nodejs",
+    "Nodejs/생활코딩nodejs/app/Not found 오류 구현.md",
+    "Nodejs/생활코딩nodejs/app/홈페이지 구현.md",
+    "Nodejs/생활코딩nodejs/nodejss/콘솔에서의 입력값.md",
+    "Nodejs/생활코딩nodejs/app/파일을 이용해 본문 구현.md",
+    "Nodejs/생활코딩nodejs/nodejss/파일 읽기.md",
+    "Nodejs/생활코딩nodejs/app/동적인 웹페이지 만들기.md",
+    "WEB.md",
+    "Nodejs/생활코딩nodejs/nodejss/URL로 입력된 값 사용하기.md",
+    "Nodejs/생활코딩nodejs/nodejss/웹 서버 만들기.md",
+    "웹서버 만들기.md",
+    "Excalidraw/Drawing 2023-10-24 13.35.22.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-24 13.33.31.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-24 13.33.27.excalidraw.md",
+    "Excalidraw"
+  ]
+}
