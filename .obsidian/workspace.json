@@ -16,14 +16,6 @@
             }
           },
           {
-            "id": "d666f34236bf0bc2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8a5825493f05b9e3",
             "type": "leaf",
             "state": {
@@ -36,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,11 +169,11 @@
   },
   "active": "8a5825493f05b9e3",
   "lastOpenFiles": [
+    "Node.js.md",
     "README.md",
     "Nodejs/생활코딩nodejs",
     "Nodejs/생활코딩node.js.md",
     "Nodejs/생활코딩nodejs/nodejs.md",
-    "Node.js.md",
     "Nodejs/생활코딩nodejs/app.md",
     "Nodejs/생활코딩nodejs/nodejss",
     "Nodejs/생활코딩nodejs/app",
